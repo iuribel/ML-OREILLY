@@ -1,0 +1,2 @@
+This study case is practice fir Simple Linear regression which only has 1 value for each case
+in this excersise, it would be the  Sales
